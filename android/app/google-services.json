@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82319639979",
+    "project_id": "bioself-441d9",
+    "storage_bucket": "bioself-441d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82319639979:android:4fd15de0c1673a5d607eee",
+        "android_client_info": {
+          "package_name": "com.rilatech.bioself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82319639979-kg8j59fl6tmoj92qfn44cvtavbmauj18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgKtB9QvreLeXqDnBdWPCli8usiepV9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82319639979-kg8j59fl6tmoj92qfn44cvtavbmauj18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
